@@ -14,3 +14,4 @@
 2- Verifique para cada disciplina a quantidade de horas
 3- Elabore um cronograma usando o excel, com carga horária e disciplina pra estudos diários
 4- Faça suas anotações para revisão de estudos
+5- Boa aula
